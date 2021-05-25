@@ -1,0 +1,11 @@
+C:\Users\German\source\repos\Risovatel.csproj\bin\Debug\RefactorMe.exe.config
+C:\Users\German\source\repos\Risovatel.csproj\bin\Debug\RefactorMe.exe
+C:\Users\German\source\repos\Risovatel.csproj\bin\Debug\RefactorMe.pdb
+C:\Users\German\source\repos\Risovatel.csproj\bin\Debug\nunit.framework.dll
+C:\Users\German\source\repos\Risovatel.csproj\obj\Debug\Risovatel.csprojAssemblyReference.cache
+C:\Users\German\source\repos\Risovatel.csproj\obj\Debug\RefactorMe.Properties.Resources.resources
+C:\Users\German\source\repos\Risovatel.csproj\obj\Debug\Risovatel.csproj.GenerateResource.cache
+C:\Users\German\source\repos\Risovatel.csproj\obj\Debug\Risovatel.csproj.CoreCompileInputs.cache
+C:\Users\German\source\repos\Risovatel.csproj\obj\Debug\Risovatel.csproj.CopyComplete
+C:\Users\German\source\repos\Risovatel.csproj\obj\Debug\RefactorMe.exe
+C:\Users\German\source\repos\Risovatel.csproj\obj\Debug\RefactorMe.pdb

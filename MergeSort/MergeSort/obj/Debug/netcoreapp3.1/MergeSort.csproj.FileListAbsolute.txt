@@ -1,0 +1,13 @@
+C:\Users\German\source\repos\MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.exe
+C:\Users\German\source\repos\MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.deps.json
+C:\Users\German\source\repos\MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.runtimeconfig.json
+C:\Users\German\source\repos\MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.runtimeconfig.dev.json
+C:\Users\German\source\repos\MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.dll
+C:\Users\German\source\repos\MergeSort\MergeSort\bin\Debug\netcoreapp3.1\MergeSort.pdb
+C:\Users\German\source\repos\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.csprojAssemblyReference.cache
+C:\Users\German\source\repos\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.AssemblyInfoInputs.cache
+C:\Users\German\source\repos\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.AssemblyInfo.cs
+C:\Users\German\source\repos\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\German\source\repos\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.dll
+C:\Users\German\source\repos\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.pdb
+C:\Users\German\source\repos\MergeSort\MergeSort\obj\Debug\netcoreapp3.1\MergeSort.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\German\source\repos\for_tests2\for_tests2\bin\Debug\netcoreapp3.1\for_tests2.exe
+C:\Users\German\source\repos\for_tests2\for_tests2\bin\Debug\netcoreapp3.1\for_tests2.deps.json
+C:\Users\German\source\repos\for_tests2\for_tests2\bin\Debug\netcoreapp3.1\for_tests2.runtimeconfig.json
+C:\Users\German\source\repos\for_tests2\for_tests2\bin\Debug\netcoreapp3.1\for_tests2.runtimeconfig.dev.json
+C:\Users\German\source\repos\for_tests2\for_tests2\bin\Debug\netcoreapp3.1\for_tests2.dll
+C:\Users\German\source\repos\for_tests2\for_tests2\bin\Debug\netcoreapp3.1\for_tests2.pdb
+C:\Users\German\source\repos\for_tests2\for_tests2\obj\Debug\netcoreapp3.1\for_tests2.AssemblyInfoInputs.cache
+C:\Users\German\source\repos\for_tests2\for_tests2\obj\Debug\netcoreapp3.1\for_tests2.AssemblyInfo.cs
+C:\Users\German\source\repos\for_tests2\for_tests2\obj\Debug\netcoreapp3.1\for_tests2.csproj.CoreCompileInputs.cache
+C:\Users\German\source\repos\for_tests2\for_tests2\obj\Debug\netcoreapp3.1\for_tests2.dll
+C:\Users\German\source\repos\for_tests2\for_tests2\obj\Debug\netcoreapp3.1\for_tests2.pdb
+C:\Users\German\source\repos\for_tests2\for_tests2\obj\Debug\netcoreapp3.1\for_tests2.genruntimeconfig.cache
+C:\Users\German\source\repos\for_tests2\for_tests2\obj\Debug\netcoreapp3.1\for_tests2.csprojAssemblyReference.cache

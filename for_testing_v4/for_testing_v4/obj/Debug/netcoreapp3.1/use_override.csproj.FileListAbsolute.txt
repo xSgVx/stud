@@ -1,0 +1,13 @@
+C:\Users\German\source\repos\for_testing_v4\for_testing_v4\bin\Debug\netcoreapp3.1\use_override.exe
+C:\Users\German\source\repos\for_testing_v4\for_testing_v4\bin\Debug\netcoreapp3.1\use_override.deps.json
+C:\Users\German\source\repos\for_testing_v4\for_testing_v4\bin\Debug\netcoreapp3.1\use_override.runtimeconfig.json
+C:\Users\German\source\repos\for_testing_v4\for_testing_v4\bin\Debug\netcoreapp3.1\use_override.runtimeconfig.dev.json
+C:\Users\German\source\repos\for_testing_v4\for_testing_v4\bin\Debug\netcoreapp3.1\use_override.dll
+C:\Users\German\source\repos\for_testing_v4\for_testing_v4\bin\Debug\netcoreapp3.1\use_override.pdb
+C:\Users\German\source\repos\for_testing_v4\for_testing_v4\obj\Debug\netcoreapp3.1\use_override.csprojAssemblyReference.cache
+C:\Users\German\source\repos\for_testing_v4\for_testing_v4\obj\Debug\netcoreapp3.1\use_override.AssemblyInfoInputs.cache
+C:\Users\German\source\repos\for_testing_v4\for_testing_v4\obj\Debug\netcoreapp3.1\use_override.AssemblyInfo.cs
+C:\Users\German\source\repos\for_testing_v4\for_testing_v4\obj\Debug\netcoreapp3.1\use_override.csproj.CoreCompileInputs.cache
+C:\Users\German\source\repos\for_testing_v4\for_testing_v4\obj\Debug\netcoreapp3.1\use_override.dll
+C:\Users\German\source\repos\for_testing_v4\for_testing_v4\obj\Debug\netcoreapp3.1\use_override.pdb
+C:\Users\German\source\repos\for_testing_v4\for_testing_v4\obj\Debug\netcoreapp3.1\use_override.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Users\German\source\repos\Billiards.csproj\bin\Debug\Billiards.exe.config
+C:\Users\German\source\repos\Billiards.csproj\bin\Debug\Billiards.exe
+C:\Users\German\source\repos\Billiards.csproj\bin\Debug\Billiards.pdb
+C:\Users\German\source\repos\Billiards.csproj\bin\Debug\TestingRoom.dll
+C:\Users\German\source\repos\Billiards.csproj\obj\Debug\Billiards.csprojAssemblyReference.cache
+C:\Users\German\source\repos\Billiards.csproj\obj\Debug\Billiards.csproj.CoreCompileInputs.cache
+C:\Users\German\source\repos\Billiards.csproj\obj\Debug\Billiards.csproj.CopyComplete
+C:\Users\German\source\repos\Billiards.csproj\obj\Debug\Billiards.exe
+C:\Users\German\source\repos\Billiards.csproj\obj\Debug\Billiards.pdb

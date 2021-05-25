@@ -1,0 +1,13 @@
+C:\Users\German\source\repos\for_testing_v3\for_testing_v3\obj\Debug\netcoreapp3.1\for_testing_v3.csprojAssemblyReference.cache
+C:\Users\German\source\repos\for_testing_v3\for_testing_v3\obj\Debug\netcoreapp3.1\for_testing_v3.AssemblyInfoInputs.cache
+C:\Users\German\source\repos\for_testing_v3\for_testing_v3\obj\Debug\netcoreapp3.1\for_testing_v3.AssemblyInfo.cs
+C:\Users\German\source\repos\for_testing_v3\for_testing_v3\obj\Debug\netcoreapp3.1\for_testing_v3.csproj.CoreCompileInputs.cache
+C:\Users\German\source\repos\for_testing_v3\for_testing_v3\bin\Debug\netcoreapp3.1\for_testing_v3.exe
+C:\Users\German\source\repos\for_testing_v3\for_testing_v3\bin\Debug\netcoreapp3.1\for_testing_v3.deps.json
+C:\Users\German\source\repos\for_testing_v3\for_testing_v3\bin\Debug\netcoreapp3.1\for_testing_v3.runtimeconfig.json
+C:\Users\German\source\repos\for_testing_v3\for_testing_v3\bin\Debug\netcoreapp3.1\for_testing_v3.runtimeconfig.dev.json
+C:\Users\German\source\repos\for_testing_v3\for_testing_v3\bin\Debug\netcoreapp3.1\for_testing_v3.dll
+C:\Users\German\source\repos\for_testing_v3\for_testing_v3\bin\Debug\netcoreapp3.1\for_testing_v3.pdb
+C:\Users\German\source\repos\for_testing_v3\for_testing_v3\obj\Debug\netcoreapp3.1\for_testing_v3.dll
+C:\Users\German\source\repos\for_testing_v3\for_testing_v3\obj\Debug\netcoreapp3.1\for_testing_v3.pdb
+C:\Users\German\source\repos\for_testing_v3\for_testing_v3\obj\Debug\netcoreapp3.1\for_testing_v3.genruntimeconfig.cache

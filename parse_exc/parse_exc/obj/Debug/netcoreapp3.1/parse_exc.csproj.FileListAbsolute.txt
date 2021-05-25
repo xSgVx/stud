@@ -1,0 +1,16 @@
+C:\Users\German\source\repos\parse_exc\parse_exc\bin\Debug\netcoreapp3.1\parse_exc.exe
+C:\Users\German\source\repos\parse_exc\parse_exc\bin\Debug\netcoreapp3.1\parse_exc.deps.json
+C:\Users\German\source\repos\parse_exc\parse_exc\bin\Debug\netcoreapp3.1\parse_exc.runtimeconfig.json
+C:\Users\German\source\repos\parse_exc\parse_exc\bin\Debug\netcoreapp3.1\parse_exc.runtimeconfig.dev.json
+C:\Users\German\source\repos\parse_exc\parse_exc\bin\Debug\netcoreapp3.1\parse_exc.dll
+C:\Users\German\source\repos\parse_exc\parse_exc\bin\Debug\netcoreapp3.1\parse_exc.pdb
+C:\Users\German\source\repos\parse_exc\parse_exc\obj\Debug\netcoreapp3.1\parse_exc.csprojAssemblyReference.cache
+C:\Users\German\source\repos\parse_exc\parse_exc\obj\Debug\netcoreapp3.1\parse_exc.AssemblyInfoInputs.cache
+C:\Users\German\source\repos\parse_exc\parse_exc\obj\Debug\netcoreapp3.1\parse_exc.AssemblyInfo.cs
+C:\Users\German\source\repos\parse_exc\parse_exc\obj\Debug\netcoreapp3.1\parse_exc.dll
+C:\Users\German\source\repos\parse_exc\parse_exc\obj\Debug\netcoreapp3.1\parse_exc.pdb
+C:\Users\German\source\repos\parse_exc\parse_exc\obj\Debug\netcoreapp3.1\parse_exc.genruntimeconfig.cache
+C:\Users\German\source\repos\parse_exc\parse_exc\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\German\source\repos\parse_exc\parse_exc\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\German\source\repos\parse_exc\parse_exc\obj\Debug\netcoreapp3.1\parse_exc.csproj.ResolveComReference.cache
+C:\Users\German\source\repos\parse_exc\parse_exc\obj\Debug\netcoreapp3.1\parse_exc.csproj.CoreCompileInputs.cache
